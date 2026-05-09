@@ -1,4 +1,4 @@
-# Endless Runner Prototype
+# Endless Runner Game
 
 A fast-paced endless side-scrolling runner game developed with Unity and C# as part of the Unity Learn pathway.
 
